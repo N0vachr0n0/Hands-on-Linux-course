@@ -1,4 +1,9 @@
-# 📚 Linux Course - English Version 🇬🇧
+# 📚 Linux Course - English Version 🇬🇧 
+<br>
+
+(⚠️ 🛠 WORK IN PROGRESS 🛠⚠️)
+
+<br>
 
 Welcome to the **Hands-on Linux Course** in English.
 
