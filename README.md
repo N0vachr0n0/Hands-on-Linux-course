@@ -35,7 +35,12 @@ Le contenu est divisé en **chapitres au format Markdown**, faciles à lire et �
     ├── 01-inside-linux-world.md
     ├── ...
 ```
+
 ---
 
-Made with ❤️ by widal.
+🔄 **English version available here → [English README](./README-ENG.md)**
+
+---
+
+> 🛠️ Made with ❤️ by [widal](https://github.com/N0vachr0n0)
 
