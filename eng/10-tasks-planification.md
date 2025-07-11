@@ -62,7 +62,7 @@ Here are concrete examples for better understanding:
 - **Every day at 2:30 PM**:
   ```bash
   30 14 * * * /usr/bin/backup.sh
-````
+  ```
 
 Executes the `backup.sh` script at 2:30 PM every day.
 
@@ -110,8 +110,8 @@ To manage a user's cron tasks, use the `crontab` command:
 `crontab -l`: Displays the scheduled tasks in the user's crontab.
 `crontab -r`: Deletes all scheduled tasks for the user (be careful, irreversible\!).
 
-\<br\>
-\<br\>
+<br>
+<br>
 
 **To test 👨🏾‍💻👩🏾‍💻:**
 
@@ -123,7 +123,7 @@ To manage a user's cron tasks, use the `crontab` command:
   - Add a line: `*/10 * * * * /home/user/script.sh`.
   - Save and exit. The cron daemon automatically detects changes.
 
-\<br\>
+<br>
 
 (( I hope you created the script file 😝))
 
@@ -170,7 +170,7 @@ To avoid common errors and optimize your cron tasks:
 
   - **Avoid overlaps**: If a task can take time, use a lockfile to prevent multiple simultaneous executions.
 
-\<br\>
+<br>
 
 **Example script with logging**:
 
@@ -260,7 +260,8 @@ Configure two dependent cron tasks for a backup and a verification.
 
 ## Feedback
 
-ENG: Please give us your feedback about this chapter.
-FR: Faites-nous part de votre avis sur ce chapitre.
+> ENG: Please give us your feedback about this chapter.
 
-👉🏾 https://forms.gle/Br22WxcwgJSeLGkW9
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
