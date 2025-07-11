@@ -162,3 +162,14 @@ chmod +x PRM_EXO_1.sh
 ## Exercice 2
 
 C'est par ici: https://sadservers.com/scenario/saint-john
+
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/dNjUFEXf6saN8RTEA

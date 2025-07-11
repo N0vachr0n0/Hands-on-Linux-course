@@ -173,5 +173,5 @@ It's over here: https://sadservers.com/scenario/saint-john
 
 > FR: Faites-nous part de votre avis sur ce chapitre.
 
-> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
+> 👉🏾 https://forms.gle/dNjUFEXf6saN8RTEA
 

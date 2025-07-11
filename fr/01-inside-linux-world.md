@@ -106,3 +106,14 @@ Nous allons comparer les distributions selon trois critères : **la gestion des 
 * Qu'est ce qu'un hyperviseur ? Qu'est ce que la virtualisation ? Quels sont les logiciels de virtualisation pour PC ?
 * Faire des recherches sur les fournisseurs cloud
 * Installer une distribution Linux de son choix en machine virtuelle afin de l'explorer XD
+
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 

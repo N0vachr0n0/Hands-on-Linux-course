@@ -150,4 +150,4 @@ sudo docker exec -it ctf-sysadmin bash
 
 > FR: Faites-nous part de votre avis sur ce chapitre.
 
-> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
+> 👉🏾 https://forms.gle/QxgTWzCfPTpg9Mks7

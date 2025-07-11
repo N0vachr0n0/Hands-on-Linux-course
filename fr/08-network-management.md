@@ -592,3 +592,15 @@ Vous devez réaliser une analyse réseau complète  sur le serveur public scanme
 ## EXERCICE 3
 
 Lien du script du challenge: https://raw.githubusercontent.com/N0vachr0n0/NoFD/refs/heads/main/Network_EXO_1.sh
+
+
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/xnuAAfbBtxyGFz8h9

@@ -315,3 +315,14 @@ Exécuter le script pour débuter le challenge comme un grand 😉.
 ## Exercice 3 (Deep Dive)
 
 * Faire ce challenge: https://sadservers.com/scenario/yokohama
+
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/nJHWw4uqLuAUjAyi7

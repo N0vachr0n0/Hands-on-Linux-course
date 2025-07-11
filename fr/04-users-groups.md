@@ -444,5 +444,13 @@ Exécuter le script pour débuter le challenge comme un grand 😉.
 
 * Lien du script du challenge: https://raw.githubusercontent.com/N0vachr0n0/NoFD/refs/heads/main/USER_EXO_1.sh
 
+---
+---
 
+## Feedback
 
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/RJzHyDZMpwDDS2uc7

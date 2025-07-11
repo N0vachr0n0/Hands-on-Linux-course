@@ -107,3 +107,14 @@ firewall-cmd --zone=public --set-default-zone=drop --permanent
 # Entraînement ⚔️
 
 En libre-service 🙂
+
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/88jPmFLnNPtjdgqv8 

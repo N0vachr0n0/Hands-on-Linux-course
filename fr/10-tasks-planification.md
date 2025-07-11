@@ -263,5 +263,13 @@ Planifier une tâche quotidienne pour nettoyer les fichiers temporaires et gére
 
 Configurer deux tâches cron dépendantes pour une sauvegarde et une vérification.
 
+---
+---
 
+## Feedback
 
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/Br22WxcwgJSeLGkW9

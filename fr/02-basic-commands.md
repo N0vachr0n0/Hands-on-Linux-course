@@ -270,3 +270,13 @@ Ouvrez votre terminal et tapez **vimtutor**. Vous aurez un retour similaire à:
 
 ![](./pictures/vimtutor.png)
 
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/gk932mwzgjJmbtc87

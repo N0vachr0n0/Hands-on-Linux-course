@@ -292,4 +292,4 @@ Open your terminal and type **vimtutor**. You'll see something like this:
 
 > FR: Faites-nous part de votre avis sur ce chapitre.
 
-> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
+> 👉🏾 https://forms.gle/gk932mwzgjJmbtc87

@@ -143,3 +143,14 @@ sudo docker rm -f ctf-sysadmin # Suppression du conteneur
 sudo docker run -dit --name ctf-sysadmin fs0ci3ty/adminsys_basic-ctf 
 sudo docker exec -it ctf-sysadmin bash
 ```
+
+---
+---
+
+## Feedback
+
+> ENG: Please give us your feedback about this chapter.
+
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/QxgTWzCfPTpg9Mks7
