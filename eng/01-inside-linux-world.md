@@ -112,7 +112,8 @@ We’ll compare the distributions across three criteria: **package management an
 
 ## Feedback
 
-ENG: Please give us your feedback about this chapter.
-FR: Faites-nous part de votre avis sur ce chapitre.
+> ENG: Please give us your feedback about this chapter.
 
-👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
