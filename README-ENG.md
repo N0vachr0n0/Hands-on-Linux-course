@@ -26,6 +26,7 @@ The content is divided into **Markdown-based chapters**, easy to read, adapt, an
 ```bash
 .
 ├── README.md
+├── README-ENG.md
 ├── fr/
 │   ├── README.md
 │   ├── 01-inside-linux-world.md
