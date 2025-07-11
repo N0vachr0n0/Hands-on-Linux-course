@@ -34,3 +34,8 @@ Le contenu est divisé en **chapitres au format Markdown**, faciles à lire et �
     ├── README.md
     ├── 01-inside-linux-world.md
     ├── ...
+```
+---
+
+Made with ❤️ by widal.
+
