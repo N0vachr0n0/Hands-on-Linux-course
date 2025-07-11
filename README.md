@@ -26,6 +26,7 @@ Le contenu est divisé en **chapitres au format Markdown**, faciles à lire et �
 ```bash
 .
 ├── README.md
+├── README-ENG.md
 ├── fr/
 │   ├── README.md
 │   ├── 01-inside-linux-world.md
