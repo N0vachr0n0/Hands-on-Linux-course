@@ -288,7 +288,8 @@ Open your terminal and type **vimtutor**. You'll see something like this:
 
 ## Feedback
 
-ENG: Please give us your feedback about this chapter.
-FR: Faites-nous part de votre avis sur ce chapitre.
+> ENG: Please give us your feedback about this chapter.
 
-👉🏾 https://forms.gle/gk932mwzgjJmbtc87
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
