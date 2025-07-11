@@ -45,9 +45,9 @@ There are different types of processes in Linux:
 - Execute:
   ```bash
   ps
-````
+   ```
 
-\<br\>
+<br>
 
 For your information, **ps** stands for **p**rocess **s**tatus. It allows us to display running processes.
 You will get a similar output to:
@@ -67,7 +67,7 @@ Below is an explanatory table.
 | **TIME** | CPU time used by the process since its launch. | `00:00:00` (minimal time for fast or idle processes) |
 | **CMD** | Command or program that initiated the process. | `bash` (interactive shell)\<br\>`ps` (process display command) |
 
-\<br\>
+<br>
 
 From this result, we might ask two (2) questions:
 
@@ -80,7 +80,7 @@ From this result, we might ask two (2) questions:
 
 2.  By default, this command (**ps**) without specific arguments displays only the processes associated with its current terminal. This explains why we only see the shell (bash) we are currently using, as well as the `ps` command itself.
 
-\<br\>
+<br>
 
 **To test 👨🏾‍💻👩🏾‍💻:**
 
@@ -111,11 +111,11 @@ From this result, we might ask two (2) questions:
   - Gracefully stop process `123` (SIGTERM signal): `kill 123`
   - Force immediate stop of process `123` (SIGKILL signal): `kill -9 123`
 
-\<br\>
+<br>
 
 **Reminder:** The **man** command and the **--help** option are your best friends.
 
-\<br\>
+<br>
 
 ## Other Commands
 
@@ -169,8 +169,9 @@ It's over here: https://sadservers.com/scenario/saint-john
 
 ## Feedback
 
-ENG: Please give us your feedback about this chapter.
-FR: Faites-nous part de votre avis sur ce chapitre.
+> ENG: Please give us your feedback about this chapter.
 
-👉🏾  https://forms.gle/dNjUFEXf6saN8RTEA
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
 
