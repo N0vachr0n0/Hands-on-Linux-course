@@ -561,7 +561,8 @@ Link to the challenge script: https://raw.githubusercontent.com/N0vachr0n0/NoFD/
 
 ## Feedback
 
-ENG: Please give us your feedback about this chapter.
-FR: Faites-nous part de votre avis sur ce chapitre.
+> ENG: Please give us your feedback about this chapter.
 
-👉🏾 https://forms.gle/xnuAAfbBtxyGFz8h9
+> FR: Faites-nous part de votre avis sur ce chapitre.
+
+> 👉🏾 https://forms.gle/1oYNEGehhKUCMcoP7 
