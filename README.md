@@ -2,8 +2,12 @@
 
 Bienvenue sur le dépôt officiel du **Hands-on Linux Course** — un cours pratique et progressif pour apprendre à utiliser Linux efficacement, depuis les bases jusqu'à l'administration système.
 
-📘 **Version française** : [Accéder au cours en français](./fr/README.md)  
+📘 **Version Française** : [Accéder au cours en Français](./fr/README.md)  
 📙 **English version**: [Access the course in English](./eng/README.md)
+
+---
+🔄 **English version available here → [English README](./README-ENG.md)**
+
 
 ---
 
@@ -36,10 +40,6 @@ Le contenu est divisé en **chapitres au format Markdown**, faciles à lire et �
     ├── 01-inside-linux-world.md
     ├── ...
 ```
-
----
-
-🔄 **English version available here → [English README](./README-ENG.md)**
 
 ---
 

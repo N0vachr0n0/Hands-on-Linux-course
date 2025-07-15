@@ -27,6 +27,14 @@ Pour aller plus loin, je vous propose d'explorer les ressources ci-dessous.
 - https://letsdefend.io/
 
 
+## Podcast IT
+
+- https://podcastaddict.com/podcast/informatique-pour-tous/4071273
+- https://podcastaddict.com/podcast/nolimitsecu/1698255
+- https://podcastaddict.com/podcast/ifttd-if-this-then-dev/3681499
+- https://podcastaddict.com/podcast/le-rendez-vous-tech/3835253
+
+
 ## Last word !
 
 <details>

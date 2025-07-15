@@ -35,6 +35,7 @@ This course walks you through learning Linux with a hands-on, progressive approa
 | 08  | Network Management                 | [08-network-management.md](./08-network-management.md) |
 | 09  | Firewall Basics                    | [09-firewall.md](./09-firewall.md) |
 | 10  | Task Scheduling                    | [10-tasks-planification.md](./10-tasks-planification.md) |
+| 11  | Extra                              | [11-extra.md](./11-extra.md) |
 
 ---
 

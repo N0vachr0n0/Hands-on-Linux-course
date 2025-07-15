@@ -36,6 +36,7 @@ Ce cours vous accompagne pas à pas dans l’apprentissage de Linux à travers d
 | 08  | Gestion du réseau                  | [08-network-management.md](./08-network-management.md) |
 | 09  | Firewall sous Linux                | [09-firewall.md](./09-firewall.md) |
 | 10  | Planification des tâches           | [10-tasks-planification.md](./10-tasks-planification.md) |
+| 11  | Extra                              | [11-extra.md](./11-extra.md) |
 
 ---
 
