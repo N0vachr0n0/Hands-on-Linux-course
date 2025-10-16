@@ -442,7 +442,7 @@ sudo -l
 
 Exécuter le script pour débuter le challenge comme un grand 😉.
 
-* Lien du script du challenge: https://raw.githubusercontent.com/N0vachr0n0/NoFD/refs/heads/main/USER_EXO_1.sh
+* Lien du script du challenge: https://raw.githubusercontent.com/N0vachr0n0/NoFD/refs/heads/main/Group_EXO_1.sh
 
 ---
 ---
